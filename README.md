@@ -102,7 +102,7 @@ cd "$(dirname "$0")"
 
 ### Frequently Asked Questions
 #### Q: Is the app safe? I'm getting a "Windows protected your PC; Microsoft Defender SmartScreen prevented an unrecognised app from starting. Running this app might put your PC at risk."
-That is completely normal. It is the default message for all "unsign" windows app. This message is shown because I didn't sign it because it will require :moneybag: :moneybag:
+That is completely normal. It is the default message for all "unsign" windows app. This message is shown because I didn't sign it as it requires :moneybag: :moneybag:
 
 You can press "More info"
 
